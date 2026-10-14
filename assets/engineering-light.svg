@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="144" viewBox="0 0 1200 144" role="img" aria-labelledby="title desc">
+  <title id="title">From signal to system</title>
+  <desc id="desc">An original engineering diagram joins a voice signal, an application core and a data store.</desc>
+  <rect width="1200" height="144" rx="16" fill="#eef3fa"/>
+  <path d="M28 22h4v100h-4z" fill="#087f98"/>
+  <text x="56" y="61" fill="#14233b" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="650">From signal to system.</text>
+  <text x="57" y="94" fill="#536581" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2">AI / BACKEND / DATA</text>
+  <g fill="none" stroke="#cad6e7" stroke-width="1">
+    <path d="M635 24v96M675 24v96M715 24v96M755 24v96M795 24v96M835 24v96M875 24v96M915 24v96M955 24v96M995 24v96M1035 24v96M1075 24v96M1115 24v96M635 32h500M635 72h500M635 112h500" opacity=".35"/>
+    <path d="M716 72h66M850 72h66M984 72h80" stroke-width="2"/>
+  </g>
+  <g fill="#ffffff" stroke="#cad6e7" stroke-width="1.5">
+    <rect x="649" y="42" width="68" height="60" rx="13"/>
+    <rect x="783" y="42" width="68" height="60" rx="13"/>
+    <rect x="917" y="42" width="68" height="60" rx="13"/>
+    <circle cx="1081" cy="72" r="18"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5">
+    <path d="M668 68v8m7-17v26m7-34v42m7-34v26m7-17v8" stroke="#087f98"/>
+    <path d="m805 62-9 10 9 10m24-20 9 10-9 10m-14 4 5-28" stroke="#7752c7"/>
+    <ellipse cx="951" cy="60" rx="16" ry="6" stroke="#087f98"/>
+    <path d="M935 60v21c0 8 32 8 32 0V60m-32 11c0 8 32 8 32 0" stroke="#087f98"/>
+    <path d="m1073 72 5 5 11-11" stroke="#7752c7"/>
+  </g>
+  <g fill="#087f98"><circle cx="750" cy="72" r="3"/><circle cx="885" cy="72" r="3"/></g>
+  <circle cx="1020" cy="72" r="3" fill="#7752c7"/>
+</svg>
